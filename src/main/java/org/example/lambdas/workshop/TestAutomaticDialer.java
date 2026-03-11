@@ -1,5 +1,7 @@
 package org.example.lambdas.workshop;
 
+import org.example.lambdas.workshop.level1.Person;
+
 import java.util.List;
 
 public class TestAutomaticDialer {
